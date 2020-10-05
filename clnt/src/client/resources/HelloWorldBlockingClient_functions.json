@@ -1,0 +1,1 @@
+{"madushagunasekara/client:0.1.0:HelloWorldBlockingClient" : [{"function":{"name":"hello","requiredParams":[{"req":"string"},{"headers":"ballerina/grpc:0.7.0:Headers?"}],"returnType":"[string,ballerina/grpc:0.7.0:Headers]"}}]}
